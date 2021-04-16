@@ -1,0 +1,43 @@
+/*CSS DOCUMENT*/
+
+h1 {
+	color: (0, 128, 128);
+	font-family: sans-serif;
+	font-size: 3em;
+	background-color: (248, 248, 255);
+	font-weight: bold;
+	order-bottom: 2px solid currentColor;
+}
+
+h2 {
+	color: (192, 192, 192);
+	font-family: sans-serif;
+	font-size: 3em;
+	background-color: (248, 248, 255);
+}
+
+h3 {
+	color: (128, 128, 128);
+	font-family: sans-serif;
+	font-size: 3em;
+	background-color: (248, 248, 255);
+	text-transform: uppercase;
+}
+
+h4 {
+	color: (169, 169, 169);
+	font-family: sans-serif;
+	font-size: 3em;
+	background-color: (248, 248, 255);
+}
+
+p {
+	color: (128, 128, 128);
+	font-family: sans-serif;
+	font-size: 3em;
+	background-color: (248, 248, 255);
+}
+
+li {
+	list-style: none;
+}
