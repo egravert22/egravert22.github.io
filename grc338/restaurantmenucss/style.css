@@ -1,9 +1,9 @@
 /*CSS DOCUMENT*/
 body{
-	background-color: (46,139,87);
+	background-color: rgb(46,139,87);
 }
 h1 {
-	color: (0, 0, 255);
+	color: rgb(0, 0, 255);
 	font-family: sans-serif;
 	font-size: 3em;
 	/*background-color: (46,139,87);*/
@@ -12,14 +12,14 @@ h1 {
 }
 
 h2 {
-	color: (135,206,235);
+	color: rgb(135,206,235);
 	font-family: sans-serif;
 	font-size: 1.5em;
 	/*background-color: (46,139,87);*/
 }
 
 h3 {
-	color: (128, 128, 128);
+	color: rgb(128, 128, 128);
 	font-family: sans-serif;
 	font-size: 1em;
 	background-color: (46,139,87);
@@ -27,14 +27,14 @@ h3 {
 }
 
 h4 {
-	color: (0,0,0);
+	color: rgb(0,0,0);
 	font-family: sans-serif;
 	font-size: 0.75em;
 	/*background-color: (46,139,87);*/
 }
 
 p {
-	color: (128, 128, 128);
+	color: rgb(128, 128, 128);
 	font-family: sans-serif;
 	font-size: 0.75em;
 	/*background-color: (46,139,87);*/
