@@ -10,10 +10,12 @@ h1{
     color:#eba84b;
 }
 body{
+    font-family: Helvetica;
     padding: 1em;
 
 }
 header{
+    font-family: sans-serif;
     background-color: #f0e6d8;
 }
 h1,h2,h3,li{
