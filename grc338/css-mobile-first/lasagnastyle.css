@@ -20,6 +20,9 @@ h1,h2,h3,li{
     margin: 1em 0
 
 }
+main{
+    background-color:  #f0e6d8;
+}
 li{
     list-style-type: none;
 }
