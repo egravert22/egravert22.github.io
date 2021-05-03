@@ -33,7 +33,7 @@ h1,h2,h3,li{
 }
 main{
     display: grid;
-    grid-template-columns: repeat(6. 1fr);
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(2, 1fr);
     background-color:  #f0e6d8;
 }
