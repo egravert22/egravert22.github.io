@@ -35,9 +35,9 @@ h1,h2,h3,li{
 }
 main{
     grid-row: 3/4;
-    display: grid;
+    /*display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: 1fr;
+    grid-template-rows: 1fr;*/
     background-color:  #f0e6d8;
 }
 li{
