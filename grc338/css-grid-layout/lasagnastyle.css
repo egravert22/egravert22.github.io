@@ -34,8 +34,8 @@ h1,h2,h3,li{
 
 }
 main{
-    grid-row: 3/4;
-    /*display: grid;
+   /* grid-row: 3/4;
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 1fr;*/
     background-color:  #f0e6d8;
@@ -45,10 +45,12 @@ li{
 }
 .ingredients{
     grid-column: 1/2;
+    grid-row: 3/4;
     color:#d96952;
 }
 .directions{
     grid-column: 2/3;
+    grid-row: 3/4;
     color:#d96952;
 }
 footer{
